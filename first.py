@@ -1,3 +1,5 @@
 print('hello")
 print("bye")
 print(t)
+print("hi")
+print("six")
